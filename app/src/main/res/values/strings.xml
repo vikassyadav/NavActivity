@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nav Activity</string>
+    <string name="OpenDrawer">Open Navigation</string>
+    <string name="CloseDrawer">Closen Navigation</string>
+</resources>
