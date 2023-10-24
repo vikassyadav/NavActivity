@@ -48,10 +48,11 @@ Toolbar toolbar;
 
                 int id = item.getItemId();
                 if (id == R.id.feat1) {             //switch case can be used here
+                    loadFragement(new AFragment());
 
                 } else if (id == R.id.feat2) {
                     Toast.makeText(MainActivity.this, "calllogs", Toast.LENGTH_SHORT).show();
-                    loadFragement(new AFragment());
+                   // loadFragement(new AFragment());
 
                 } else if (id == R.id.feat3) {
                     Toast.makeText(MainActivity.this, "f2", Toast.LENGTH_SHORT).show();
