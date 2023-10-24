@@ -3,7 +3,7 @@
 
     <item
         android:id="@+id/feat1"
-        android:title="feature 1 "
+        android:title="call logs "
         android:icon="@drawable/feature_1"/>
     <item
         android:id="@+id/feat2"

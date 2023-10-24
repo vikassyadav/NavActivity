@@ -2,4 +2,6 @@
     <string name="app_name">Nav Activity</string>
     <string name="OpenDrawer">Open Navigation</string>
     <string name="CloseDrawer">Closen Navigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">call logs</string>
 </resources>
